@@ -87,4 +87,4 @@ sky-striker-game/
 
 ## 👨‍💻 Author
 
-Aakarsh Tiwari
+Aakarsh Tiwari,Ayush Dubey, Shruti Singh ,Chirah Sinhmar, Hinamshu Raj.
